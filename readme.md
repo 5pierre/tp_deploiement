@@ -33,6 +33,9 @@ Chaque push sur la branche main doit déclencher automatiquement :
 
 - Tests unitaires ok
 - Tests E2E ok
+
+a faire: 
+
 - Build de l’image Docker 
 - Push de l’image sur Docker Hub
 - Déploiement automatique sur une VM Azure (via SSH)
