@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "npx jest --forceExit",
+    "test": "npm run jest",
     "test:e2e": "node e2e.js"
   },
   "repository": {
