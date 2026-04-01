@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "jest",
+    "test": "npx jest",
     "test:e2e": "node e2e.js"
   },
   "repository": {
